@@ -1,0 +1,26 @@
+.body {
+
+}
+.container-fluid{
+    background: rgba(239, 225, 176, 0.4);
+    height: 100vh;
+    width: 100%;
+}
+.navigation {
+    background: lightskyblue;
+    height: 100%;
+    width: 100%;
+}
+.img-loop {
+    border: 1px solid black;
+}
+.img_loop_price {
+    border: 1px solid black;
+}
+.Cont_Card {
+    display: flex;
+}
+.table, tr {
+    width: 100vh;
+
+}
